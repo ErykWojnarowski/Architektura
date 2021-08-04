@@ -1,0 +1,16 @@
+F:\studia C#\architektura\architektura\bin\Debug\net5.0\architektura.exe
+F:\studia C#\architektura\architektura\bin\Debug\net5.0\architektura.deps.json
+F:\studia C#\architektura\architektura\bin\Debug\net5.0\architektura.runtimeconfig.json
+F:\studia C#\architektura\architektura\bin\Debug\net5.0\architektura.runtimeconfig.dev.json
+F:\studia C#\architektura\architektura\bin\Debug\net5.0\architektura.dll
+F:\studia C#\architektura\architektura\bin\Debug\net5.0\ref\architektura.dll
+F:\studia C#\architektura\architektura\bin\Debug\net5.0\architektura.pdb
+F:\studia C#\architektura\architektura\obj\Debug\net5.0\architektura.csprojAssemblyReference.cache
+F:\studia C#\architektura\architektura\obj\Debug\net5.0\architektura.GeneratedMSBuildEditorConfig.editorconfig
+F:\studia C#\architektura\architektura\obj\Debug\net5.0\architektura.AssemblyInfoInputs.cache
+F:\studia C#\architektura\architektura\obj\Debug\net5.0\architektura.AssemblyInfo.cs
+F:\studia C#\architektura\architektura\obj\Debug\net5.0\architektura.csproj.CoreCompileInputs.cache
+F:\studia C#\architektura\architektura\obj\Debug\net5.0\architektura.dll
+F:\studia C#\architektura\architektura\obj\Debug\net5.0\ref\architektura.dll
+F:\studia C#\architektura\architektura\obj\Debug\net5.0\architektura.pdb
+F:\studia C#\architektura\architektura\obj\Debug\net5.0\architektura.genruntimeconfig.cache
