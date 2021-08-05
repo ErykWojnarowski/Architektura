@@ -11,6 +11,8 @@ namespace architektura
 
             if (polecenie == "MOV")
             {
+                Console.WriteLine("Komórka druga jest kopiowana do komórki pierwszej.");
+                Console.WriteLine(" ");
                 Console.WriteLine("Podaj pierwszą komórkę: ");
                 string kom1 = Console.ReadLine();
                 Console.WriteLine("Podaj wartość pierwszej komórki (4 bity): ");
