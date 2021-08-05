@@ -43,7 +43,7 @@ namespace architektura
 
 
                     Console.WriteLine("Podane dane do operacji MOV: ");
-                    Console.WriteLine("Komórka pierwsza: " + kom11 + " Komórka druga: " + kom22);
+                    Console.WriteLine("Komórka " + kom1 + ": " + kom11 + " Komórka  " + kom2 + ": "  + kom22);
 
 
 
@@ -178,7 +178,7 @@ namespace architektura
 
                     else
                     {
-                        Console.WriteLine("Podano złą nazwę komórki");
+                        Console.WriteLine("Podano zły typ komórki");
                     }
                     Console.ReadKey();
                 }
@@ -215,7 +215,7 @@ namespace architektura
                 else
                 {
                     Console.WriteLine("Podane dane do operacji XCHG: ");
-                    Console.WriteLine("Komórka pierwsza: " + kom11 + " Komórka druga: " + kom22);
+                    Console.WriteLine("Komórka " + kom1 + ": " + kom11 + " Komórka  " + kom2 + ": " + kom22);
                     Console.WriteLine(" ");
                     Console.WriteLine("Dane po operacji XCHG: ");
                     if (kom1 == "AX" && kom2 == "AX")
@@ -337,7 +337,7 @@ namespace architektura
 
                     else
                     {
-                        Console.WriteLine("Podaną złą nazwę komórki");
+                        Console.WriteLine("Podano zły typ komórki");
                     }
                     Console.ReadKey();
                 }
